@@ -1,6 +1,6 @@
-import styled from "@emotion/styled";
+import styled from '@emotion/styled';
 
 export const ListOfFriends = styled.ul`
-    padding: 0;
-    list-style: none;
-`
+  padding: 0;
+  list-style: none;
+`;
